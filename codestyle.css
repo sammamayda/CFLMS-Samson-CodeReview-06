@@ -1,0 +1,33 @@
+.events {
+    margin-top: 10px;
+    background-image: url("./imgs/muzik.jpg");
+    border-radius: 5px;
+}
+
+.carousel-caption {
+    color: rgb(230, 60, 8);
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(151, 199, 102);
+}
+
+h5 {
+    font-size: 50px;
+}
+
+h6 {
+    font-size: 50px;
+    border-radius: 5px;
+    background-color: rgb(52, 95, 97);
+    color: rgb(153, 123, 85);
+}
+
+.title {
+    color: rgb(216, 29, 138);
+}
+
+footer {
+    background-image: url(./imgs/white.png);
+}
